@@ -8,4 +8,5 @@ $(".testing").animate({
     function() {
         console.log('test')
     }
+    
 );
